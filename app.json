@@ -17,8 +17,7 @@
             "required": true
         },
         "API_ID": {
-            "description": "14240350
-",
+            "description": "14240350",
             "required": true
         },
         "API_HASH": {
