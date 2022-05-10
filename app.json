@@ -9,31 +9,32 @@
         "pytgcalls",
         "tgvcbot"
     ],
-    "repository": "https://github.com/kursadHD/TgMusicBot",
+    "repository": "https://github.com/kostok20/TgMusicBot",
     "stack": "container",
     "env": {
         "SESSION": {
-            "description": "Pyrogram string session. (run `python(3) session.py` or generate it from https://replit.com/@kursadHD/Pyrogram-String-Session-Generator)",
+            "description": "AQBhzyVBNP4_MJsYP7m43CJSputplM127YhhxpKJYCDoE2dCAa7A1YM8Oh29lV0hAANR5kerz_xJqX_YWmuhXlPPbuyiHbpDqmmbME0ep72vmOUnBOgDm9z_uyq2UCvbLI8tfvKd9KKSQRyFxpg-oLv1cRVaAM8Y9aAQxNOg7b3GrkLddnixBzE35WpRatImusoGNbtt2VdGcEnSoOSJWKyT9kl4RQa2SoLefkL3Rms4OOaEFn9ZlSj-Dx7oVbcvzSCsHLsTiMuilMUbxd6UKjpqAOoVthQx-pFjDJV5bgKlUfJ-D39u8obX5ui_Z_zIGWpcAPRGMO_yypQzH8WcXjuRAAAAAS6UV3kA",
             "required": true
         },
         "API_ID": {
-            "description": "Telegram api id (get from https://my.telegram.org)",
+            "description": "14240350
+",
             "required": true
         },
         "API_HASH": {
-            "description": "Telegram api hash (get from https://my.telegram.org)",
+            "description": "a72206c9a94d1c5f1f3505cfd5d33153",
             "required": true
         },
         "SUDO": {
-            "description": "Sudo user ids (separate with space if more than one sudo)",
+            "description": "5058916970",
             "required": false
         },
         "SPOTIFY_CLIENT_ID": {
-            "description": "Spotify client id (get from https://developer.spotify.com/dashboard/applications)",
+            "description": "62bd20ec447d492794004488957fe3c9",
             "required": false
         },
         "SPOTIFY_CLIENT_SECRET": {
-            "description": "Spotify client secret (get from https://developer.spotify.com/dashboard/applications)",
+            "description": "5c54c5b9856b466e97edc312522f22fe",
             "required": false
         },
         "LOG_LEVEL": {
