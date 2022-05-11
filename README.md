@@ -4,99 +4,99 @@
 ## Commands
 <details>
 
-### !start / !help
+### /start / /help
 **Desc:** `Show the commands`  
-**e.g.**  `!help`  
+**e.g.**  `/help`  
 
-### !play [song name | youtube link]
+### /play [song name | youtube link]
 **Desc:** `Play a song in voice call, if already playing add to queue`  
 **Note:** `Or you can reply to a message with !play, it's same`  
-**e.g.**  `!play falling`, `!play https://www.youtube.com/watch?v=eIc4mqyN1Q8`   
+**e.g.**  `/play falling`, `/play https://www.youtube.com/watch?v=eIc4mqyN1Q8`   
 
-### !remote [stream url]
+### /remote [stream url]/
 **Desc:** `Play a remote stream in voice call, if already playing add to queue`  
-**e.g.**  `!remote http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8`   
+**e.g.**  `/remote http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8`   
 
-### !skip / !next
+### /skip / /next
 **Desc:** `Skip to next song`  
-**e.g.**  `!skip`  
+**e.g.**  `!/kip`  
 
-### !leave
+### /leave
 **Desc:** `Leave from voice call and clear the queue`  
-**e.g.**  `!leave`  
+**e.g.**  `/leave`  
 
-### !queue
+### /queue
 **Desc:** `Show songs in the queue`  
-**e.g.**  `!queue`  
+**e.g.**  `/queue`  
 
-### !shuffle
+### /shuffle
 **Desc:** `Shuflle the queue`  
-**e.g.**  `!shuffle`  
+**e.g.**  `/shuffle`  
 
-### !now
+### /now
 **Desc:** `Show currently playing song`  
-**e.g.**  `!now`  
+**e.g.**  `/now`  
 
-### !mode / !switch
+### /mode / /switch
 **Desc:** `Change the stream mode (audio/video)`
-**e.g.**  `!mode`
+**e.g.**  `/mode`
 
-### !mute
+### /mute
 **Desc:** `Mute stream`
-**e.g.**  `!mute`
+**e.g.**  `/mute`
 
-### !unmute
+### /unmute
 **Desc:** `Unmute stream`
-**e.g.**  `!unmute`
+**e.g.**  `/unmute`
 
-### !pause 
+### /pause 
 **Desc:** `Pause stream`
-**e.g.**  `!pause`
+**e.g.**  `/pause`
 
-### !resume 
+### /resume 
 **Desc:** `Resume stream`
-**e.g.**  `!resume`
+**e.g.**  `/resume`
 
-### !loop
+### /loop
 **Desc:** `Switch the loop mode`  
-**e.g.**  `!loop`  
+**e.g.**  `/loop`  
 
-### !quiet
+### /quiet
 **Desc:** `Switch the quiet mode`  
-**e.g.**  `!quiet`  
+**e.g.**  `/quiet`  
 
-### !language [lang code]
+### /language [lang code]
 **Desc:** `Set bot language in a group`  
-**e.g.**  `!language en`  
+**e.g.**  `/language en`  
 
-### !addbl [user id]
+### /addbl [user id]
 **Desc:** `Add user to blacklist in group`  
 **Note:** `Or reply the user's message with !addbl you want to blacklist`  
-**e.g.**  `!addbl 111111111`, `!addbl (with reply)`  
+**e.g.**  `/addbl 111111111`, `!addbl (with reply)`  
 
-### !rmbl [user id]
+### /rmbl [user id]
 **Desc:** `Remove user from blacklist in group`  
 **Note:** `Or reply the user's message with !rmbl you want to unblacklist`  
-**e.g.**  `!rmbl 111111111`, `!rmbl (with reply)`  
+**e.g.**  `/rmbl 111111111`, `!rmbl (with reply)`  
 
-### !getbl
+### /getbl
 **Desc:** `Get blacklisted user's ids in group`  
-**e.g.**  `!getbl`  
+**e.g.**  `/getbl`  
 
-### !export
+### /export
 **Desc:** `Export the queue for import in future (like playlist)`  
 **Note:** `Save the exported file`  
-**e.g.**  `!export`  
+**e.g.**  `/export`  
 
-### !import
+### /import
 **Desc:** `Import queue from exported file`  
 **Note:** `Reply the exported file with !import`  
-**e.g.**  `!import (with reply)`  
+**e.g.**  `/import (with reply)`  
 
-### !playlist [playlist url]
+### /playlist [playlist url]
 **Desc:** `Import playlist from youtube/spotify`  
 **Note:** `This command has some bugs`  
-**e.g.**  `!playlist https://open.spotify.com/playlist/3ZgmfR6lsnCwdffZUan8EA`  
+**e.g.**  `/playlist https://open.spotify.com/playlist/3ZgmfR6lsnCwdffZUan8EA`  
 </details>
 
 # Features
@@ -134,7 +134,7 @@ SUDO | Sudo user ids (separate with space if more than one sudo) | Optional (def
 SPOTIFY_CLIENT_ID | Spotify client id (get from https://developer.spotify.com/dashboard) | Optional
 SPOTIFY_CLIENT_SECRET | Spotify client secret (get from https://developer.spotify.com/dashboard) | Optional
 LOG_LEVEL | Log level | Optional (default: error)
-PREFIXES | Bot prefixes (separate with space) | Optional (default: !)
+PREFIXES | Bot prefixes (separate with space) | Optional (default: /)
 DEFAULT_LANG | Default language for groups | Optional (default: tr)
 DEFAULT_STREAM_MODE | Default stream mode for groups (audio or video) | Optional (default: audio)
 
