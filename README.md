@@ -4,7 +4,7 @@
 ## Commands
 <details>
 
-### /start / /help
+### /start - /help
 **Desc:** `Show the commands`  
 **e.g.**  `/help`  
 
