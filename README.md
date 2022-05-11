@@ -17,9 +17,9 @@
 **Desc:** `Play a remote stream in voice call, if already playing add to queue`  
 **e.g.**  `/remote http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8`   
 
-### /skip / /next
+### /skip - /next
 **Desc:** `Skip to next song`  
-**e.g.**  `!/kip`  
+**e.g.**  `/skip`  
 
 ### /leave
 **Desc:** `Leave from voice call and clear the queue`  
