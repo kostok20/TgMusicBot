@@ -11,7 +11,7 @@
 ### /play [song name | youtube link]
 **Desc:** `Play a song in voice call, if already playing add to queue`  
 **Note:** `Or you can reply to a message with !play, it's same`  
-**e.g.**  `/play falling`, `/play https://www.youtube.com/watch?v=eIc4mqyN1Q8`   
+**e.g.**  `play falling`, `/play https://www.youtube.com/watch?v=eIc4mqyN1Q8`   
 
 ### /remote [stream url]/
 **Desc:** `Play a remote stream in voice call, if already playing add to queue`  
