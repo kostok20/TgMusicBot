@@ -30,7 +30,7 @@ class Config:
             self.LOG_LEVEL = logging.DEBUG
         else:
             self.LOG_LEVEL = logging.ERROR
-        self.PREFIXES: list = os.environ.get('PREFIX', '!').split()
+        self.PREFIXES: list = os.environ.get('PREFIX', '/').split()
         self.DEFAULT_LANG: str = os.environ.get('DEFAULT_LANG', 'tr').lower()
         self.DEFAULT_STREAM_MODE: str = 'audio' if (os.environ.get(
             'DEFAULT_STREAM_MODE', 'audio').lower() == 'audio') else 'video'
