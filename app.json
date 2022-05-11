@@ -44,7 +44,7 @@
         "PREFIX": {
             "description": "Bot prefixes (separate with space)",
             "required": false,
-            "value": "!"
+            "value": "/"
         },
         "DEFAULT_LANG": {
             "description": "Default language for groups (tr / en)",
