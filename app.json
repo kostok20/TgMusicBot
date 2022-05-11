@@ -13,7 +13,7 @@
     "stack": "container",
     "env": {
         "SESSION": {
-            "description": "AQBhzyVBNP4_MJsYP7m43CJSputplM127YhhxpKJYCDoE2dCAa7A1YM8Oh29lV0hAANR5kerz_xJqX_YWmuhXlPPbuyiHbpDqmmbME0ep72vmOUnBOgDm9z_uyq2UCvbLI8tfvKd9KKSQRyFxpg-oLv1cRVaAM8Y9aAQxNOg7b3GrkLddnixBzE35WpRatImusoGNbtt2VdGcEnSoOSJWKyT9kl4RQa2SoLefkL3Rms4OOaEFn9ZlSj-Dx7oVbcvzSCsHLsTiMuilMUbxd6UKjpqAOoVthQx-pFjDJV5bgKlUfJ-D39u8obX5ui_Z_zIGWpcAPRGMO_yypQzH8WcXjuRAAAAAS6UV3kA",
+            "description": "AQA_wSSXrpqTH5pN5FDl73OCpvhzYjQdfgrGxL9xXXdiL-Bkh3ar1-mCTu2Cv-KkNxAEhB8Pw7hYL7JXrQW8bi-xYdhgGPdKlPGDaYLJbIvaw-7Cq9dceU4cDiqJ3hBU8GISDW5TmohnZAuT2cnQYnSHW0neAdG45nSau28VqK7S9cXTgEScgguHmAbkUesyZ3_yqUk01VeqzBYYABY-4G3vmHtck3N1FxbAlu9xsrQMipHPaMg6-sl9DBhEMkywPWjJ5EhfL24lPcovZ8pY2UrwLwaMdOCzGSh4ZI-VE4Cj_DA1eltEOoDYuk8I7HR9lDMLpKFXD6W43Xm76XtLM7tMAAAAAS6UV3kA",
             "required": true
         },
         "API_ID": {
