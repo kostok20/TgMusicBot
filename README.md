@@ -37,7 +37,7 @@
 **Desc:** `Show currently playing song`  
 **e.g.**  `/now`  
 
-### /mode / /switch
+### /mode - /switch
 **Desc:** `Change the stream mode (audio/video)`
 **e.g.**  `/mode`
 
