@@ -25,7 +25,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "5058916970",
+            "description": "15095702",
             "required": false
         },
         "SPOTIFY_CLIENT_ID": {
