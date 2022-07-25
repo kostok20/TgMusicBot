@@ -13,19 +13,19 @@
     "stack": "container",
     "env": {
         "SESSION": {
-            "description": "AQA_wSSXrpqTH5pN5FDl73OCpvhzYjQdfgrGxL9xXXdiL-Bkh3ar1-mCTu2Cv-KkNxAEhB8Pw7hYL7JXrQW8bi-xYdhgGPdKlPGDaYLJbIvaw-7Cq9dceU4cDiqJ3hBU8GISDW5TmohnZAuT2cnQYnSHW0neAdG45nSau28VqK7S9cXTgEScgguHmAbkUesyZ3_yqUk01VeqzBYYABY-4G3vmHtck3N1FxbAlu9xsrQMipHPaMg6-sl9DBhEMkywPWjJ5EhfL24lPcovZ8pY2UrwLwaMdOCzGSh4ZI-VE4Cj_DA1eltEOoDYuk8I7HR9lDMLpKFXD6W43Xm76XtLM7tMAAAAAS6UV3kA",
+            "description": "AQAr87hOUpcuCKPBlTLbsA_-Vh5H7Nnhfw9juuluUgNshVL4kcxFABkpfPyyBKP70zKujIkQ40NLtSYe5oHfOOG4yNZx1RWkKQE9goJXdjZtWE1RqxVLZvLnSak4199m_1MlkPdvp52YKlbn7ZAWn6VxER8GxLiPTGN5QyCq081q9Jf0DFgmYV8idrj_Cevf7_6yvxfif3e6rx3HDRBhKPZHbRN1SaxWmKhoA7cYQzQeDtRmUUktNDblOIBdZcP6wBvmqq4BVNBjNTkYSOuzdc86XrqOHljLXeNkMwX4J39e7NPWIyHiatqNmPUyW784LVCoUOxxpctzoowii381tVwpAAAAATpP5wIA",
             "required": true
         },
         "API_ID": {
-            "description": "14240350",
+            "description": "15095702",
             "required": true
         },
         "API_HASH": {
-            "description": "a72206c9a94d1c5f1f3505cfd5d33153",
+            "description": "a30d70d50032706c7c95a070eaf7c83b",
             "required": true
         },
         "SUDO": {
-            "description": "15095702",
+            "description": "5452854503",
             "required": false
         },
         "SPOTIFY_CLIENT_ID": {
@@ -44,7 +44,7 @@
         "PREFIX": {
             "description": "Bot prefixes (separate with space)",
             "required": false,
-            "value": "/"
+            "value": "!"
         },
         "DEFAULT_LANG": {
             "description": "Default language for groups (tr / en)",
